@@ -8,4 +8,4 @@ Just install it and when you access the IconFont CSS file in your browser, you'l
 
 ## Acknowledgments
 
-Thanks to Anthony for the [WebExtension Vite Starter](https://github.com/antfu/vitesse-webext).
+Thanks to Anthony Fu for the [WebExtension Vite Starter](https://github.com/antfu/vitesse-webext).
