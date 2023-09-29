@@ -72,7 +72,7 @@ const handleIconClick = (text: string) => {
         v-if="isShowTips"
         class="inline-block rounded-md bg-green-500 text-white px-4 py-2 fixed top-24px left-50% -translate-x-1/2"
       >
-        <span class="text-14px">已复制到剪切板</span>
+        <span class="text-14px">Copied!</span>
       </div>
     </transition>
   </div>
